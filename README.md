@@ -28,4 +28,4 @@ Inspired by [vscode-iconify](https://github.com/antfu/vscode-iconify)
 
 ## License
 
-[MIT](./LICENSE) License © 2024 [CofCat](https://github.com/cofcat)
+[MIT](./LICENSE) License © 2024 [Ilya Liao](https://github.com/ilyaliao)

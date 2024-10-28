@@ -1,21 +1,20 @@
 {
-  "publisher": "cofcat",
+  "publisher": "ilyaliao",
   "name": "image-inline-preview",
   "displayName": "Image Inline Preview",
   "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@9.6.0",
   "description": "",
-  "author": "CofCat <a25690756@gmail.com.tw>",
+  "author": "ilyaliao",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/cofcat",
-  "homepage": "https://github.com/cofcat/vscode-image-inline-preview#readme",
+  "homepage": "https://github.com/ilyaliao/vscode-image-inline-preview#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cofcat/vscode-image-inline-preview"
+    "url": "https://github.com/ilyaliao/vscode-image-inline-preview"
   },
   "bugs": {
-    "url": "https://github.com/cofcat/vscode-image-inline-preview/issues"
+    "url": "https://github.com/ilyaliao/vscode-image-inline-preview/issues"
   },
   "categories": [
     "Other",
